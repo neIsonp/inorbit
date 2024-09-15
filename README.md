@@ -15,7 +15,7 @@ The Weekly Goal Tracker is a project that allows users to set and track their go
 - Handling asynchronous data with `TanStack Query`
 - And more...
 
-* If you like the project, please give it a star⭐ and share it to help me out 👍, and follow me to see more of my projects.
+If you like the project, please give it a star⭐ and share it to help me out 👍, and follow me to see more of my projects.
 
 ## 🚀 Technologies
 
