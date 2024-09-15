@@ -48,6 +48,8 @@ export async function getWeekSummary() {
       )
   );
 
+  console.log(goalsCompletedInWeek);
+
   const goalsCompletedByWeekDay = db.$with("goals_completed_by_week_day").as(
     db
       .select({
